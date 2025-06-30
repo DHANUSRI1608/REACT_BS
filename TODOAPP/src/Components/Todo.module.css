@@ -1,0 +1,8 @@
+.container{
+    font-size: medium;
+    font-style: italic;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: 10rem;
+}
